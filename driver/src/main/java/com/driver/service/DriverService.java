@@ -1,6 +1,6 @@
-package com.passenger.service;
+package com.driver.service;
 
-import com.passenger.entity.Driver;
+import com.driver.entity.Driver;
 
 import java.util.List;
 

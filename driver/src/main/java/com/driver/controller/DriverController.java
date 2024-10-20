@@ -1,7 +1,7 @@
-package com.passenger.controller;
+package com.driver.controller;
 
-import com.passenger.entity.Driver;
-import com.passenger.service.DriverService;
+import com.driver.entity.Driver;
+import com.driver.service.DriverService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

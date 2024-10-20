@@ -1,4 +1,4 @@
-package com.passenger.entity;
+package com.driver.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

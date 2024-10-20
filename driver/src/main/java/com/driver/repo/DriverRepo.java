@@ -1,6 +1,6 @@
-package com.passenger.repo;
+package com.driver.repo;
 
-import com.passenger.entity.Driver;
+import com.driver.entity.Driver;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
